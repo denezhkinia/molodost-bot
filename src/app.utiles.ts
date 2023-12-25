@@ -58,7 +58,7 @@ export const createBecomePartnerButtons = () => {
           { text: ButtonsText.BecomePartnerToManager, callback_data: ButtonsData.BecomePartnerToManager },
         ],
         [
-          { text: ButtonsText.BecomePartnerToBot, callback_data: ButtonsData.BecomePartnerToTelegram },
+          { text: ButtonsText.BecomePartnerToBot, callback_data: ButtonsData.BecomePartnerToBot },
         ],
       ],
     },
