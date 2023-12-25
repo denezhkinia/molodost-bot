@@ -1,0 +1,23 @@
+{
+  "sessions": [
+    {
+      "id": "508472006:508472006",
+      "data": {
+        "__scenes": {},
+        "previousMessageId": 322,
+        "userId": 508472006,
+        "type": null,
+        "priviousValue": "Илья"
+      }
+    },
+    {
+      "id": "2065496231:2065496231",
+      "data": {
+        "__scenes": {},
+        "userId": 2065496231,
+        "type": null,
+        "priviousValue": "вова"
+      }
+    }
+  ]
+}

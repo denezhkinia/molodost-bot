@@ -1,0 +1,1 @@
+INSERT INTO public.about (id, "name") VALUES
